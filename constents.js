@@ -1,0 +1,1 @@
+export const bRed ='#df1827'
